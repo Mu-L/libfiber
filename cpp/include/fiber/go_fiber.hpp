@@ -15,6 +15,7 @@
 #include <utility>
 #include "fiber.hpp"
 #include "fiber_tbox.hpp"
+#include <memory>
 
 struct ACL_FIBER;
 
@@ -139,3 +140,4 @@ private:
  * 	};
  * }
  */
+
